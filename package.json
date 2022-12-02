@@ -1,5 +1,5 @@
 {
-  "name": "react-native-demo117",
+  "name": "ssh-demo117",
   "version": "0.1.0",
   "description": "test",
   "main": "lib/commonjs/index",
@@ -40,13 +40,13 @@
     "ios",
     "android"
   ],
-  "repository": "http://git.com",
-  "author": "ssh <ssh@email.com> (http://www.yh117.com)",
+  "repository": "https://github.com/sshNpm/rnLibrary.git",
+  "author": "ssh",
   "license": "MIT",
   "bugs": {
-    "url": "http://git.com/issues"
+    "url": "https://github.com/sshNpm/rnLibrary.git/issues"
   },
-  "homepage": "http://git.com#readme",
+  "homepage": "https://github.com/sshNpm/rnLibrary.git#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
