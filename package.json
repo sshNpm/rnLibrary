@@ -1,5 +1,5 @@
 {
-  "name": "ssh-demo117",
+  "name": "@sshdemo/rnlibrarydemo",
   "version": "0.1.0",
   "description": "test",
   "main": "lib/commonjs/index",
